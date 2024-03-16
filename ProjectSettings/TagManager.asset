@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tile
+  - Block
+  - Kunai
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1011370955
+    locked: 0
+  - name: Tile
+    uniqueID: 408194767
+    locked: 0
+  - name: Tree
+    uniqueID: 2310607851
+    locked: 0
+  - name: Block
+    uniqueID: 3647630317
+    locked: 0
+  - name: Kunai
+    uniqueID: 1954748233
+    locked: 0
+  - name: Player
+    uniqueID: 2295867111
+    locked: 0
